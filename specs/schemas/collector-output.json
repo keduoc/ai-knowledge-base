@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ai-knowledge-base/schemas/collector-output.json",
+  "title": "Collector Output",
+  "description": "采集 Agent 产出的原始数据格式，每条为从 GitHub Trending / Hacker News 抓取并经初步筛选后的技术条目。",
+  "type": "array",
+  "minItems": 15,
+  "items": {
+    "type": "object",
+    "required": ["title", "url", "source", "popularity", "summary"],
+    "properties": {
+      "title": {
+        "type": "string",
+        "description": "原始标题（英文原文），如 owner/repo 或文章标题",
+        "minLength": 1
+      },
+      "url": {
+        "type": "string",
+        "format": "uri",
+        "description": "完整可访问链接，真实有效",
+        "pattern": "^https?://"
+      },
+      "source": {
+        "type": "string",
+        "enum": ["github-trending", "hackernews"],
+        "description": "来源标识"
+      },
+      "popularity": {
+        "type": "integer",
+        "minimum": 0,
+        "description": "热度值（GitHub star 数 / HN points）"
+      },
+      "summary": {
+        "type": "string",
+        "description": "中文摘要，≤100 字，基于页面实际内容",
+        "maxLength": 100
+      }
+    },
+    "additionalProperties": false
+  }
+}
