@@ -1,0 +1,19 @@
+{
+  "id": "9a59267a-4223-4004-becc-1514d86c69f6",
+  "title": "FerroxLabs/wayland",
+  "source_url": "https://github.com/FerroxLabs/wayland",
+  "source_name": "github-trending",
+  "summary": "一个声称具备感知-推理-行动-进化能力的通用 AI Agent 框架，旨在构建可自主演进的智能体系统。本周 374 星，概念宏大。",
+  "tags": [],
+  "published_at": "2026-06-05T17:38:22Z",
+  "fetched_at": "2026-06-11T13:44:39Z",
+  "status": "organized",
+  "processed_by": "organizer-agent",
+  "organized_at": "2026-06-11T14:01:19Z",
+  "rating": 5,
+  "rating_reason": "概念有吸引力但描述过于宏大，缺少具体实现细节和可验证的 benchmark；无 tags 标注降低了可发现性；项目尚处早期，实用性待验证。",
+  "highlights": [
+    "提出「感知→推理→行动→进化」四阶段 Agent 架构",
+    "跨平台设计，TypeScript 技术栈现代化"
+  ]
+}

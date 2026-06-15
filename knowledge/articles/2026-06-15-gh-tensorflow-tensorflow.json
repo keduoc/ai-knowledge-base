@@ -1,0 +1,12 @@
+{
+  "id": "1666ba74-4c50-41e3-ad19-18d36c1f932c",
+  "title": "tensorflow/tensorflow",
+  "source_url": "https://github.com/tensorflow/tensorflow",
+  "source_name": "github-trending",
+  "summary": "TensorFlow：谷歌开源机器学习框架，支持深度神经网络训练与大规模分布式部署",
+  "tags": ["MLOps", "Open-Source", "NLP", "CV"],
+  "published_at": "2026-06-15T00:00:00Z",
+  "fetched_at": "2026-06-15T00:00:00Z",
+  "status": "pending",
+  "processed_by": "analyzer-agent"
+}

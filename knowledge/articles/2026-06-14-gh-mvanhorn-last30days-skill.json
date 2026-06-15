@@ -1,0 +1,12 @@
+{
+  "id": "88739a43-2625-497f-beb8-c89d235f6df0",
+  "title": "mvanhorn/last30days-skill",
+  "source_url": "https://github.com/mvanhorn/last30days-skill",
+  "source_name": "github-trending",
+  "summary": "一个 AI Agent Skill，可跨 Reddit、X、YouTube、Hacker News、Polymarket 及全网对任意话题进行多源调研，自动抓取并合成高质量的结构化摘要，让 Agent 具备实时信息感知与综合研判能力。",
+  "tags": ["Agent", "Research", "Web-Search", "Open-Source"],
+  "published_at": "2026-06-08T00:00:00Z",
+  "fetched_at": "2026-06-14T00:00:00Z",
+  "status": "pending",
+  "processed_by": "analyzer-agent"
+}

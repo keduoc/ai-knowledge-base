@@ -1,0 +1,12 @@
+{
+  "id": "95a34d41-7075-4b71-9399-f93e0edef271",
+  "title": "phuryn/pm-skills",
+  "source_url": "https://github.com/phuryn/pm-skills",
+  "source_name": "github-trending",
+  "summary": "面向产品经理的 Agent 技能市场，提供 100+ 覆盖产品全生命周期（探索→策略→执行→发布→增长）的 Agent 技能、命令和插件。社区驱动模式支持持续扩展。",
+  "tags": ["Agent", "Product-Management", "Marketplace"],
+  "published_at": "2026-06-08T00:00:00Z",
+  "fetched_at": "2026-06-14T00:00:00Z",
+  "status": "pending",
+  "processed_by": "analyzer-agent"
+}

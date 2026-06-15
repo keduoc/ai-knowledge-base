@@ -1,0 +1,12 @@
+{
+  "id": "be1d630d-f26d-4b46-b909-fc5cdcec60db",
+  "title": "roboflow/supervision",
+  "source_url": "https://github.com/roboflow/supervision",
+  "source_name": "github-trending",
+  "summary": "可复用的计算机视觉工具集，提供目标检测、实例分割、目标跟踪、数据标注、模型评估等 CV 任务的标准组件。与 YOLO、SAM、DINOv2 等主流模型框架无缝集成。",
+  "tags": ["Computer-Vision", "Deep-Learning", "MLOps", "Open-Source"],
+  "published_at": "2026-06-08T00:00:00Z",
+  "fetched_at": "2026-06-14T00:00:00Z",
+  "status": "pending",
+  "processed_by": "analyzer-agent"
+}

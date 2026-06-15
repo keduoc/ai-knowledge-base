@@ -1,0 +1,41 @@
+{
+  "id": "3a550647-9bc2-4ef1-ad25-0b6fbb40441f",
+  "title": "ferdinandobons/brand-docs",
+  "source_url": "https://github.com/ferdinandobons/brand-docs",
+  "source_name": "github-trending",
+  "summary": "通过 Agent Skill 学习现有 Word/PPT/Excel 模板，自动生成符合品牌规范的新文档。区别于通用 AI 文档生成，它保留了品牌结构、样式和公式。",
+  "tags": [
+    "ai-document-generation",
+    "claude-code-plugin",
+    "codex",
+    "document-automation",
+    "document-generation",
+    "docx",
+    "excel",
+    "microsoft-office",
+    "office-automation",
+    "office-documents",
+    "ooxml",
+    "openpyxl",
+    "powerpoint",
+    "pptx",
+    "python-docx",
+    "python-pptx",
+    "template-automation",
+    "template-engine",
+    "word",
+    "xlsx"
+  ],
+  "published_at": "2026-06-05T09:55:35Z",
+  "fetched_at": "2026-06-11T13:44:39Z",
+  "status": "organized",
+  "processed_by": "organizer-agent",
+  "organized_at": "2026-06-11T14:01:19Z",
+  "rating": 7,
+  "rating_reason": "解决企业场景的真实痛点（品牌文档一致性），技术方案务实；但 Office 文档自动化是成熟领域，创新增量有限。扣 3 分因依赖 Office 生态和模板预置，通用性受限。",
+  "highlights": [
+    "精准解决企业文档「品牌一致性」痛点",
+    "保留模板的样式、结构和公式，非简单 AI 生成",
+    "支持 Claude Code、Codex 多平台"
+  ]
+}

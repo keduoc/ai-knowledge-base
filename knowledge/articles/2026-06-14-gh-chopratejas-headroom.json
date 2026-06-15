@@ -1,0 +1,12 @@
+{
+  "id": "1d13577a-107d-464f-9e56-2fd00f1de998",
+  "title": "chopratejas/headroom",
+  "source_url": "https://github.com/chopratejas/headroom",
+  "source_name": "github-trending",
+  "summary": "LLM 上下文压缩工具，在工具输出、日志、文件和 RAG chunk 到达 LLM 之前进行智能压缩，减少 60-95% token 消耗且不损失答案质量。提供 Library、Proxy、MCP Server 三种接入方式。",
+  "tags": ["LLM", "RAG", "MCP", "Optimization"],
+  "published_at": "2026-06-08T00:00:00Z",
+  "fetched_at": "2026-06-14T00:00:00Z",
+  "status": "pending",
+  "processed_by": "analyzer-agent"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "04e47425-9c7a-4f0a-9820-0a32d0b4fc8d",
+  "title": "lfnovo/open-notebook",
+  "source_url": "https://github.com/lfnovo/open-notebook",
+  "source_name": "github-trending",
+  "summary": "Google Notebook LM 的开源替代实现，支持将文档转化为交互式知识库。相比官方版本提供更灵活的功能、多模型支持和更高的可定制性，避免供应商锁定。",
+  "tags": ["LLM", "Knowledge-Base", "RAG", "Open-Source"],
+  "published_at": "2026-06-08T00:00:00Z",
+  "fetched_at": "2026-06-14T00:00:00Z",
+  "status": "pending",
+  "processed_by": "analyzer-agent"
+}

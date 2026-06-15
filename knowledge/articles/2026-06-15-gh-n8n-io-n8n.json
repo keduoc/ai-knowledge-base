@@ -1,0 +1,12 @@
+{
+  "id": "01f97977-634b-4632-a6b6-14199c05b434",
+  "title": "n8n-io/n8n",
+  "source_url": "https://github.com/n8n-io/n8n",
+  "source_name": "github-trending",
+  "summary": "n8n：内置AI能力的工作流自动化平台，支持400+集成与MCP协议，可自托管",
+  "tags": ["Agent", "Data-Pipeline", "Open-Source", "MLOps"],
+  "published_at": "2026-06-15T00:00:00Z",
+  "fetched_at": "2026-06-15T00:00:00Z",
+  "status": "pending",
+  "processed_by": "analyzer-agent"
+}

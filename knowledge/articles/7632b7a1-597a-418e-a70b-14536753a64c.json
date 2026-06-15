@@ -1,0 +1,29 @@
+{
+  "id": "7632b7a1-597a-418e-a70b-14536753a64c",
+  "title": "JimLiu/baoyu-design",
+  "source_url": "https://github.com/JimLiu/baoyu-design",
+  "source_name": "github-trending",
+  "summary": "将 Anthropic Claude Design 功能本地化封装为 Agent Skill，支持 Cursor 和 Claude Code，无需依赖 claude.ai/design 即可在本地生成 UI 原型、幻灯片和线框图。本周 744 星，是 Agent Skill 生态中增长最快的项目之一。",
+  "tags": [
+    "agent-skills",
+    "claude",
+    "claude-code",
+    "claude-design",
+    "cursor",
+    "design",
+    "prototyping",
+    "ui-design"
+  ],
+  "published_at": "2026-06-07T01:16:18Z",
+  "fetched_at": "2026-06-11T13:44:39Z",
+  "status": "organized",
+  "processed_by": "organizer-agent",
+  "organized_at": "2026-06-11T14:01:19Z",
+  "rating": 9,
+  "rating_reason": "切中 Agent Skill 生态痛点，将云端服务本地化具有高实用价值；增长迅猛（744 星），社区验证充分；适用面广，覆盖开发全流程中的设计环节。扣 1 分因依赖 Opus 4.8 模型门槛。",
+  "highlights": [
+    "将 Claude Design 本地化为可复用的 Agent Skill，解耦云端依赖",
+    "生成自包含 HTML，适配 Cursor、Claude Code 等主流 AI 编码工具",
+    "覆盖 UI 原型、幻灯片、线框图等多场景设计需求"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "46a72013-4a61-40e9-8b6a-134a5cea1147",
+  "title": "Forsy-AI/forsy-trace-skill",
+  "source_url": "https://github.com/Forsy-AI/forsy-trace-skill",
+  "source_name": "github-trending",
+  "summary": "面向 AI Agent 工作流的结构化轨迹采集 Skill，将 Agent 的执行过程记录为可分析、可复用的 trace 数据，服务于后训练和过程监督场景。",
+  "tags": [
+    "agent-evaluation",
+    "agent-traces",
+    "agent-workflows",
+    "ai-agents",
+    "llm-agents",
+    "post-training",
+    "process-supervision",
+    "reinforcement-learning",
+    "tool-use",
+    "trajectory-data"
+  ],
+  "published_at": "2026-06-05T08:31:53Z",
+  "fetched_at": "2026-06-11T13:44:39Z",
+  "status": "organized",
+  "processed_by": "organizer-agent",
+  "organized_at": "2026-06-11T14:01:19Z",
+  "rating": 7,
+  "rating_reason": "方向正确——Agent 轨迹数据是 RL 和评估的基础设施级需求；开源 Skill 设计降低集成门槛。扣 3 分因项目尚处早期（116 星），实际可用性和数据格式标准待观察。",
+  "highlights": [
+    "瞄准 Agent 评估和后训练的数据瓶颈",
+    "结构化 trace 采集，可对接 RLHF/过程监督",
+    "开源 Skill 设计，易于集成到现有 Agent 工作流"
+  ]
+}

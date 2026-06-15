@@ -1,0 +1,41 @@
+{
+  "id": "4f94042d-b43e-4b99-a52d-04c929626783",
+  "title": "myccarl/ai-shortVideo-pipeline",
+  "source_url": "https://github.com/myccarl/ai-shortVideo-pipeline",
+  "source_name": "github-trending",
+  "summary": "端到端 AI 短视频生产线，FastAPI 编排多模型（DeepSeek、Kling 等）协同工作，集成断路器、计量和全链路可观测性。另有 CLIP 一致性校验和音画同步自动修复。",
+  "tags": [
+    "ai",
+    "ai-pipeline",
+    "circuit-breaker",
+    "clip-model",
+    "deepseek",
+    "docker-compose",
+    "failover",
+    "fastapi",
+    "ffmpeg",
+    "java",
+    "kling",
+    "langfuse",
+    "llm",
+    "multi-model",
+    "prompt-engineering",
+    "python",
+    "resilience4j",
+    "short-video",
+    "spring-boot",
+    "video-generation"
+  ],
+  "published_at": "2026-06-04T13:49:51Z",
+  "fetched_at": "2026-06-11T13:44:39Z",
+  "status": "organized",
+  "processed_by": "organizer-agent",
+  "organized_at": "2026-06-11T14:01:19Z",
+  "rating": 9,
+  "rating_reason": "少见的「不只跑通 demo，而是能上生产」的 AI 视频管线；工程实践扎实（微服务架构、弹性设计、全链路观测），技术深度和完整性在本周项目中名列前茅。扣 1 分因文档/link 较少，上手成本可能偏高。",
+  "highlights": [
+    "工程化程度极高：熔断、计量、可观测性一应俱全",
+    "多模型 failover 机制保证生产稳定性",
+    "AI 质量关卡：prompt 锚定 + CLIP 一致性 + 音画同步修复"
+  ]
+}

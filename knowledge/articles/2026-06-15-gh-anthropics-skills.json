@@ -1,0 +1,12 @@
+{
+  "id": "a1c090b7-6c2b-4cee-91ab-b05a641d686b",
+  "title": "anthropics/skills",
+  "source_url": "https://github.com/anthropics/skills",
+  "source_name": "github-trending",
+  "summary": "Anthropic Skills：Anthropic官方Agent技能公开仓库，为Claude Code提供标准化能力扩展",
+  "tags": ["Agent", "Prompt-Engineering", "Open-Source"],
+  "published_at": "2026-06-15T00:00:00Z",
+  "fetched_at": "2026-06-15T00:00:00Z",
+  "status": "pending",
+  "processed_by": "analyzer-agent"
+}

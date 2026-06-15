@@ -1,0 +1,12 @@
+{
+  "id": "2ee72786-0546-46e8-b34f-010db7eab3f1",
+  "title": "Leonxlnx/taste-skill",
+  "source_url": "https://github.com/Leonxlnx/taste-skill",
+  "source_name": "github-trending",
+  "summary": "为 AI Agent 注入「审美」能力的技能包，阻止 Agent 生成枯燥、平庸的通用输出。通过预设的品味标准引导 Agent 产出更具个性化和高质量的内容。",
+  "tags": ["Agent", "Prompt-Engineering", "Content-Quality", "Open-Source"],
+  "published_at": "2026-06-08T00:00:00Z",
+  "fetched_at": "2026-06-14T00:00:00Z",
+  "status": "pending",
+  "processed_by": "analyzer-agent"
+}

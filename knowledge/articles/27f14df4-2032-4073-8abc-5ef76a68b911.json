@@ -1,0 +1,32 @@
+{
+  "id": "27f14df4-2032-4073-8abc-5ef76a68b911",
+  "title": "Forlives/21-day-self-interview",
+  "source_url": "https://github.com/Forlives/21-day-self-interview",
+  "source_name": "github-trending",
+  "summary": "基于 Hermes Agent 的 AI 心理学日记，每晚安 3 个深度问题引导自我反思，持续 21 天并记忆用户回答。中英双语，将存在主义心理学与 Agent 技术结合。",
+  "tags": [
+    "ai-agent",
+    "chinese",
+    "cron",
+    "existentialism",
+    "hermes-agent",
+    "journaling",
+    "mental-health",
+    "mirror",
+    "psychology",
+    "self-improvement",
+    "self-reflection"
+  ],
+  "published_at": "2026-06-04T09:53:52Z",
+  "fetched_at": "2026-06-11T13:44:39Z",
+  "status": "organized",
+  "processed_by": "organizer-agent",
+  "organized_at": "2026-06-11T14:01:19Z",
+  "rating": 8,
+  "rating_reason": "在众多工具型 Agent 中独树一帜，将心理学方法论与 Agent 长期记忆能力结合，产品设计成熟完整。扣 2 分因目标用户群偏窄，商业化路径不清晰。",
+  "highlights": [
+    "Agent 与心理学深度结合，非工具型应用的范式创新",
+    "21 天持续对话 + 记忆回放，体现 Agent 长期交互能力",
+    "中英双语、定时通知，产品设计完整"
+  ]
+}

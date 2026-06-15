@@ -1,0 +1,19 @@
+{
+  "id": "8900cac4-a84f-490f-982b-3a34cb6baa5f",
+  "title": "CWS6206/ai-coding-starter-kit",
+  "source_url": "https://github.com/CWS6206/ai-coding-starter-kit",
+  "source_name": "github-trending",
+  "summary": "面向瑞士开发团队的 AI 编码入门工具包，包含经过精选的 Agent Skills、检查清单和模板。内容源自作者博客文章的系统化整理。",
+  "tags": [],
+  "published_at": "2026-06-05T08:46:35Z",
+  "fetched_at": "2026-06-11T13:44:39Z",
+  "status": "organized",
+  "processed_by": "organizer-agent",
+  "organized_at": "2026-06-11T14:01:19Z",
+  "rating": 5,
+  "rating_reason": "作为知识整理类项目有参考价值，但创新度有限，本质是博客内容的二次打包；以德语为主要描述语言缩小了受众面；260 星更多来自作者博客的引流。",
+  "highlights": [
+    "体系化整理 Agent Skills 最佳实践，降低入门门槛",
+    "面向团队级使用场景，包含检查清单和指南"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b50c0118-920f-4963-b369-72125f0fd438",
+  "title": "openclaw/openclaw",
+  "source_url": "https://github.com/openclaw/openclaw",
+  "source_name": "github-trending",
+  "summary": "OpenClaw：个人AI助手，支持20+消息平台统一接入，本地优先Gateway架构确保数据自主权",
+  "tags": ["Agent", "Chatbot", "Open-Source", "English"],
+  "published_at": "2026-06-15T00:00:00Z",
+  "fetched_at": "2026-06-15T00:00:00Z",
+  "status": "pending",
+  "processed_by": "analyzer-agent"
+}

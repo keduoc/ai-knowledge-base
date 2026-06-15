@@ -1,0 +1,12 @@
+{
+  "id": "b53114a6-5816-4458-b44e-617f94428d44",
+  "title": "f/prompts.chat",
+  "source_url": "https://github.com/f/prompts.chat",
+  "source_name": "github-trending",
+  "summary": "Prompts.chat：ChatGPT提示词社区，收集和分享高质量AI对话提示词模板",
+  "tags": ["Prompt-Engineering", "Chatbot", "Open-Source"],
+  "published_at": "2026-06-15T00:00:00Z",
+  "fetched_at": "2026-06-15T00:00:00Z",
+  "status": "pending",
+  "processed_by": "analyzer-agent"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "adbef1a6-1c2d-41be-bda4-1367f73b138f",
+  "title": "huggingface/transformers",
+  "source_url": "https://github.com/huggingface/transformers",
+  "source_name": "github-trending",
+  "summary": "Transformers：HuggingFace核心框架，提供数万预训练模型覆盖NLP/CV/语音全领域",
+  "tags": ["LLM", "VLM", "NLP", "CV", "Speech", "Multimodal", "Open-Source"],
+  "published_at": "2026-06-15T00:00:00Z",
+  "fetched_at": "2026-06-15T00:00:00Z",
+  "status": "pending",
+  "processed_by": "analyzer-agent"
+}

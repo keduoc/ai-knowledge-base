@@ -1,0 +1,12 @@
+{
+  "id": "6d76eaab-71bc-4056-a0a9-528a9ea8dbd3",
+  "title": "AUTOMATIC1111/stable-diffusion-webui",
+  "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "source_name": "github-trending",
+  "summary": "SD WebUI：最流行的Stable Diffusion图像生成Web界面，功能丰富的AI绘图工具",
+  "tags": ["CV", "Open-Source", "Multimodal"],
+  "published_at": "2026-06-15T00:00:00Z",
+  "fetched_at": "2026-06-15T00:00:00Z",
+  "status": "pending",
+  "processed_by": "analyzer-agent"
+}

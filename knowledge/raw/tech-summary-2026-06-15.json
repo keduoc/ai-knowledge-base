@@ -1,0 +1,210 @@
+{
+  "source": "tech-summary",
+  "skill": "tech-summary",
+  "analyzed_at": "2026-06-15T00:00:00Z",
+  "trends": {
+    "common_themes": "本期以AI编程Agent的技能框架与可复用能力体系为主线，多个项目（superpowers、ECC、anthropics/skills、karpathy-guidelines）聚焦为Claude Code/Codex/OpenCode等编程Agent提供标准化Skill模块。跨平台整合趋势显著：ECC和Hermes Agent均支持7种以上编程Agent平台及200+种LLM后端，MCP协议已广泛集成作为Agent工具扩展的标准方式。Agent自学习闭环成为新方向，Hermes Agent和ECC均实现了从经验中自动创建和优化技能的能力。",
+    "new_concepts": [
+      "Agent Harness 性能优化系统（ECC）：将编程Agent视为可调优的执行层，通过技能/记忆/安全扫描等多维度提升Agent效率",
+      "Agent 自学习闭环（Hermes Agent）：内置技能自动创建与使用中自我改进的完整学习回路，支持跨会话知识持久化",
+      "子Agent驱动开发方法论（superpowers）：将开发任务分解为独立子Agent并行执行，配合两阶段审查（规格合规+代码质量）"
+    ]
+  },
+  "items": [
+    {
+      "name": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "summary": "OpenClaw：个人AI助手，支持20+消息平台统一接入，本地优先Gateway架构确保数据自主权",
+      "highlights": [
+        "支持20+消息平台统一接入（WhatsApp/Telegram/Slack/微信/QQ等）",
+        "本地优先Gateway架构，数据完全自主可控",
+        "内置Voice Wake/Talk Mode语音交互和Live Canvas可视化工作区"
+      ],
+      "score": 8,
+      "score_reason": "功能全面、社区庞大（379K stars），多平台接入和本地优先架构实用性强",
+      "tags": ["Agent", "Chatbot", "Open-Source", "English"]
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "Superpowers：面向编码Agent的技能框架，强制执行TDD与子Agent驱动开发流程",
+      "highlights": [
+        "支持7种主流编程Agent平台（Claude Code/Codex/Cursor/OpenCode/Gemini等）",
+        "内置子Agent驱动开发流程与两阶段代码审查（规格合规+代码质量）",
+        "强制执行RED-GREEN-REFACTOR TDD循环，删除测试前已写的代码"
+      ],
+      "score": 8,
+      "score_reason": "方法论严谨、跨平台覆盖广，直接提升AI编码质量和效率，社区活跃度高",
+      "tags": ["Agent", "Code-Generation", "Open-Source", "Prompt-Engineering"]
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "summary": "ECC：Agent编程性能优化系统，提供262个技能和64个智能体配置，跨7种编程AI平台",
+      "highlights": [
+        "262个可复用技能覆盖Token优化/记忆持久化/持续学习/安全扫描",
+        "支持7种AI编程平台（Claude Code/Codex/OpenCode/Cursor/Gemini/Zed/Copilot）",
+        "内置AgentShield安全扫描引擎和MCP协议集成"
+      ],
+      "score": 8,
+      "score_reason": "最全面的Agent编程性能优化系统，技能生态丰富，跨平台覆盖面广",
+      "tags": ["Agent", "Code-Generation", "Open-Source", "MLOps"]
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "summary": "TensorFlow：谷歌开源机器学习框架，支持深度神经网络训练与大规模分布式部署",
+      "highlights": [
+        "支持分布式训练与TPU加速，生产级模型部署",
+        "Keras高级API降低入门门槛，覆盖CV/NLP/推荐系统全栈",
+        "TensorFlow Serving/TFLite覆盖云端到边缘端全场景"
+      ],
+      "score": 7,
+      "score_reason": "成熟的工业级框架，生态完善，但在LLM时代创新性有所减弱",
+      "tags": ["MLOps", "Open-Source", "NLP", "CV"]
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "summary": "Hermes Agent：自学习AI智能体，内置技能闭环学习系统，支持200+模型与6种运行后端",
+      "highlights": [
+        "内置闭环学习系统：从经验中自动创建技能并使用中自我改进",
+        "支持200+种LLM统一切换（OpenRouter/Nous Portal等）无代码变更",
+        "6种终端后端（本地/Docker/SSH/Singularity/Modal/Daytona）覆盖低成本到GPU集群"
+      ],
+      "score": 9,
+      "score_reason": "Nous Research打造的突破性自学习Agent架构，闭环学习回路创新性强，社区高度活跃",
+      "tags": ["Agent", "LLM", "Open-Source", "Multilingual", "Chatbot"]
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "summary": "Claw Code：完全由AI Agent自主维护的Rust CLI编程工具，展示零人工干预开发范式",
+      "highlights": [
+        "Rust原生CLI Agent工具，95.5%代码为Rust实现",
+        "由Gajae-Code/LazyCodex自主开发维护，全程零人工代码提交",
+        "支持Anthropic/OpenAI API及Ollama本地模型切换"
+      ],
+      "score": 6,
+      "score_reason": "AI自主开发的概念验证项目很新颖，但作者明确定位为博物馆展品而非生产工具",
+      "tags": ["Agent", "Code-Generation", "Open-Source", "Inference-Framework"]
+    },
+    {
+      "name": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "summary": "n8n：内置AI能力的工作流自动化平台，支持400+集成与MCP协议，可自托管",
+      "highlights": [
+        "400+服务集成覆盖主流SaaS和数据源，内置AI节点",
+        "原生支持MCP协议客户端和服务端双向集成",
+        "可视化编排与JavaScript/Python代码自定义双模式"
+      ],
+      "score": 8,
+      "score_reason": "成熟的自动化平台融合AI与MCP能力，可自托管兼顾数据安全，实用性极强",
+      "tags": ["Agent", "Data-Pipeline", "Open-Source", "MLOps"]
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "summary": "AutoGPT：经典自主AI Agent框架，支持多LLM后端，目标让每个人构建AI工具",
+      "highlights": [
+        "支持OpenAI/Claude/Llama等多LLM后端灵活切换",
+        "自主任务分解与执行循环的早期开创者",
+        "丰富的插件生态和工具集成体系"
+      ],
+      "score": 6,
+      "score_reason": "AI Agent领域的先驱项目，历史意义重大，但当前实用性已被新兴Agent框架超越",
+      "tags": ["Agent", "LLM", "Open-Source"]
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "summary": "Karpathy Guidelines：基于LLM编码经验总结的Claude Code行为优化四大原则指南",
+      "highlights": [
+        "提炼Karpathy对LLM编码陷阱的四大原则：先思考/简洁优先/精确修改/目标驱动",
+        "支持Claude Code和Cursor双平台插件安装",
+        "强制Agent先陈述假设和权衡再编码的工作流"
+      ],
+      "score": 7,
+      "score_reason": "以Karpathy影响力推动的最佳实践总结，简单但有效，对AI编程质量有直接提升",
+      "tags": ["Prompt-Engineering", "Code-Generation", "Tutorial", "Open-Source"]
+    },
+    {
+      "name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "summary": "OpenCode：开源终端AI编程助手，支持多LLM后端和跨平台桌面应用",
+      "highlights": [
+        "终端原生TUI支持多Agent模式切换（build编码/plan只读分析）",
+        "支持macOS/Linux/Windows全平台桌面应用（Beta）",
+        "824个版本迭代活跃开发，社区贡献者众多"
+      ],
+      "score": 8,
+      "score_reason": "最活跃的开源编程Agent之一，迭代速度快，直接提升开发效率",
+      "tags": ["Agent", "Code-Generation", "Open-Source"]
+    },
+    {
+      "name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "summary": "Ollama：本地LLM运行工具，一键部署主流开源模型，简单高效的AI推理引擎",
+      "highlights": [
+        "支持DeepSeek/Qwen/Gemma/Llama/Mistral等主流模型一键部署",
+        "Go语言实现内存效率高，支持OpenAI兼容API零迁移成本",
+        "丰富的Modelfile自定义和模型量化能力"
+      ],
+      "score": 8,
+      "score_reason": "本地LLM推理的事实标准工具，安装简单、模型生态丰富，落地门槛极低",
+      "tags": ["LLM", "Inference-Framework", "Open-Source", "English"]
+    },
+    {
+      "name": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "summary": "Prompts.chat：ChatGPT提示词社区，收集和分享高质量AI对话提示词模板",
+      "highlights": [
+        "覆盖ChatGPT/Claude/Gemini多模型提示词模板",
+        "社区驱动的提示词贡献与质量评分机制",
+        "Next.js构建的现代化Web展示界面"
+      ],
+      "score": 5,
+      "score_reason": "提示词合集类项目，有参考价值但创新性和技术深度有限",
+      "tags": ["Prompt-Engineering", "Chatbot", "Open-Source"]
+    },
+    {
+      "name": "AUTOMATIC1111/stable-diffusion-webui",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "summary": "SD WebUI：最流行的Stable Diffusion图像生成Web界面，功能丰富的AI绘图工具",
+      "highlights": [
+        "支持文生图/图生图/超分辨率/Inpainting全流程",
+        "Gradio构建的可扩展Web界面，插件生态丰富",
+        "ControlNet/AnimateDiff等扩展支持可控生成和动画制作"
+      ],
+      "score": 7,
+      "score_reason": "AI图像生成领域的标杆工具，社区生态成熟，但核心架构较老",
+      "tags": ["CV", "Open-Source", "Multimodal"]
+    },
+    {
+      "name": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "summary": "Transformers：HuggingFace核心框架，提供数万预训练模型覆盖NLP/CV/语音全领域",
+      "highlights": [
+        "数万预训练模型统一API调用，降低模型切换成本",
+        "支持PyTorch/TensorFlow/JAX多后端无缝切换",
+        "覆盖NLP/CV/语音/多模态全领域，前沿模型SOTA快速集成"
+      ],
+      "score": 9,
+      "score_reason": "改变AI开发生态的基础设施级项目，是绝大多数LLM应用的技术底座",
+      "tags": ["LLM", "VLM", "NLP", "CV", "Speech", "Multimodal", "Open-Source"]
+    },
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "summary": "Anthropic Skills：Anthropic官方Agent技能公开仓库，为Claude Code提供标准化能力扩展",
+      "highlights": [
+        "Anthropic官方维护的Agent技能规范与标准实现",
+        "定义SKILL.md格式为Agent可插拔能力的标准化描述",
+        "为Claude Code提供官方可扩展能力生态"
+      ],
+      "score": 7,
+      "score_reason": "官方标准有重要参考价值，但内容量和覆盖面目前有限",
+      "tags": ["Agent", "Prompt-Engineering", "Open-Source"]
+    }
+  ]
+}

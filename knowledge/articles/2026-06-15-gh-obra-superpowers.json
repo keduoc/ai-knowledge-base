@@ -1,0 +1,12 @@
+{
+  "id": "92078765-6208-4b69-94ad-f0a9b20b551a",
+  "title": "obra/superpowers",
+  "source_url": "https://github.com/obra/superpowers",
+  "source_name": "github-trending",
+  "summary": "Superpowers：面向编码Agent的技能框架，强制执行TDD与子Agent驱动开发流程",
+  "tags": ["Agent", "Code-Generation", "Open-Source", "Prompt-Engineering"],
+  "published_at": "2026-06-15T00:00:00Z",
+  "fetched_at": "2026-06-15T00:00:00Z",
+  "status": "pending",
+  "processed_by": "analyzer-agent"
+}

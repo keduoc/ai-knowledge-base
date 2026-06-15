@@ -1,0 +1,12 @@
+{
+  "id": "21501838-f3a3-44e5-bba5-87dadd0742dc",
+  "title": "anomalyco/opencode",
+  "source_url": "https://github.com/anomalyco/opencode",
+  "source_name": "github-trending",
+  "summary": "OpenCode：开源终端AI编程助手，支持多LLM后端和跨平台桌面应用",
+  "tags": ["Agent", "Code-Generation", "Open-Source"],
+  "published_at": "2026-06-15T00:00:00Z",
+  "fetched_at": "2026-06-15T00:00:00Z",
+  "status": "pending",
+  "processed_by": "analyzer-agent"
+}

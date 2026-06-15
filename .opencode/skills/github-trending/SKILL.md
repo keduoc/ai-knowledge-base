@@ -1,6 +1,6 @@
 ---
 name: github-trending
-description: 当需要采集 GitHub 热门开源项目时使用此技能
+description: 抓取 GitHub Trending 页面获取热门 AI/LLM/Agent 项目列表，输出结构化 JSON。Use when 用户提到 GitHub Trending、趋势榜、热榜、排行榜、热门仓库、今日/本周最火，或需要采集/抓取/拉取/爬/看看/查一下 GitHub 上的 AI/LLM/Agent/大模型项目，或问最近有什么新的/火的 AI 开源项目、看看趋势、有什么好项目、trending repos、what's trending on GitHub 时。覆盖中文和英文的多种表达。
 user-invocable: true
 ---
 

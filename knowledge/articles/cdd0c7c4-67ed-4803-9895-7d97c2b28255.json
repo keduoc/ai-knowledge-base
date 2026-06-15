@@ -1,0 +1,20 @@
+{
+  "id": "cdd0c7c4-67ed-4803-9895-7d97c2b28255",
+  "title": "ziqihe10-droid/xuefeng-agent",
+  "source_url": "https://github.com/ziqihe10-droid/xuefeng-agent",
+  "source_name": "github-trending",
+  "summary": "面向高考志愿填报场景的 AI 智能顾问，具备多轮追问、深度分析和直言不讳的特点。中文原生支持，切中刚需。本周 334 星。",
+  "tags": [],
+  "published_at": "2026-06-07T15:33:07Z",
+  "fetched_at": "2026-06-11T13:44:39Z",
+  "status": "organized",
+  "processed_by": "organizer-agent",
+  "organized_at": "2026-06-11T14:01:19Z",
+  "rating": 7,
+  "rating_reason": "场景垂直、刚需明确，中文 Agent 应用典范；334 星说明用户认可度高。扣 3 分因应用场景受季节限制（集中在高考季），且缺乏技术层面的差异化描述。",
+  "highlights": [
+    "聚焦高考志愿填报这一确定性刚需场景",
+    "多轮追问 + 深度分析，模拟专业顾问交互",
+    "中文原生、接地气的设计，降低使用门槛"
+  ]
+}

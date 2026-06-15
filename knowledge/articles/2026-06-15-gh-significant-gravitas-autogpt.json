@@ -1,0 +1,12 @@
+{
+  "id": "6fb2543a-6dc9-4cfb-98e0-705be14aabd6",
+  "title": "Significant-Gravitas/AutoGPT",
+  "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+  "source_name": "github-trending",
+  "summary": "AutoGPT：经典自主AI Agent框架，支持多LLM后端，目标让每个人构建AI工具",
+  "tags": ["Agent", "LLM", "Open-Source"],
+  "published_at": "2026-06-15T00:00:00Z",
+  "fetched_at": "2026-06-15T00:00:00Z",
+  "status": "pending",
+  "processed_by": "analyzer-agent"
+}

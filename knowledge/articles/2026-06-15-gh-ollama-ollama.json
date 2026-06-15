@@ -1,0 +1,12 @@
+{
+  "id": "705dfea0-6db1-49f3-89a5-6a8294e5c4dc",
+  "title": "ollama/ollama",
+  "source_url": "https://github.com/ollama/ollama",
+  "source_name": "github-trending",
+  "summary": "Ollama：本地LLM运行工具，一键部署主流开源模型，简单高效的AI推理引擎",
+  "tags": ["LLM", "Inference-Framework", "Open-Source", "English"],
+  "published_at": "2026-06-15T00:00:00Z",
+  "fetched_at": "2026-06-15T00:00:00Z",
+  "status": "pending",
+  "processed_by": "analyzer-agent"
+}

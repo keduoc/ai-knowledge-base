@@ -1,0 +1,12 @@
+{
+  "id": "8c8caa53-cbc4-49cd-b899-a91f762f2652",
+  "title": "NousResearch/hermes-agent",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "source_name": "github-trending",
+  "summary": "Hermes Agent：自学习AI智能体，内置技能闭环学习系统，支持200+模型与6种运行后端",
+  "tags": ["Agent", "LLM", "Open-Source", "Multilingual", "Chatbot"],
+  "published_at": "2026-06-15T00:00:00Z",
+  "fetched_at": "2026-06-15T00:00:00Z",
+  "status": "pending",
+  "processed_by": "analyzer-agent"
+}

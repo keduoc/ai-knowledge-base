@@ -1,0 +1,30 @@
+{
+  "id": "f3e293e1-fbf7-46db-86bd-54036edfd059",
+  "title": "amElnagdy/guard-skills",
+  "source_url": "https://github.com/amElnagdy/guard-skills",
+  "source_name": "github-trending",
+  "summary": "为 AI 编码 Agent 提供质量守卫 Skill，在代码、测试和文档层面自动捕获 AI 生成内容的常见缺陷。支持 Claude Code 和 Codex，是 Agent 编码安全的重要基础设施。",
+  "tags": [
+    "agent-skills",
+    "ai",
+    "claude",
+    "claude-code",
+    "code-review",
+    "codex",
+    "skills-sh",
+    "woocommerce",
+    "wordpress"
+  ],
+  "published_at": "2026-06-06T16:59:27Z",
+  "fetched_at": "2026-06-11T13:44:39Z",
+  "status": "organized",
+  "processed_by": "organizer-agent",
+  "organized_at": "2026-06-11T14:01:19Z",
+  "rating": 8,
+  "rating_reason": "解决 AI 生成代码质量的刚需问题，定位精准；561 星说明市场需求强烈。扣 2 分因目前 tags 中混杂了 WordPress/WooCommerce 等非核心领域，定位清晰度待提升。",
+  "highlights": [
+    "首创「Agent 代码审查」范式，AI 写代码 + AI 守质量",
+    "覆盖代码、测试、文档三维度的故障模式检测",
+    "兼容 Claude Code 和 Codex，生态覆盖面广"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "afe7218c-240b-4b55-9d44-49444f9b8783",
+  "title": "multica-ai/andrej-karpathy-skills",
+  "source_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+  "source_name": "github-trending",
+  "summary": "Karpathy Guidelines：基于LLM编码经验总结的Claude Code行为优化四大原则指南",
+  "tags": ["Prompt-Engineering", "Code-Generation", "Tutorial", "Open-Source"],
+  "published_at": "2026-06-15T00:00:00Z",
+  "fetched_at": "2026-06-15T00:00:00Z",
+  "status": "pending",
+  "processed_by": "analyzer-agent"
+}

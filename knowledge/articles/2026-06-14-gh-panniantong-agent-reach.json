@@ -1,0 +1,12 @@
+{
+  "id": "7d3a21b8-1743-46d8-9dc1-c456910a119b",
+  "title": "Panniantong/Agent-Reach",
+  "source_url": "https://github.com/Panniantong/Agent-Reach",
+  "source_name": "github-trending",
+  "summary": "为 AI Agent 赋予浏览全网的能力，支持读取和搜索 Twitter、Reddit、YouTube、GitHub、B站、小红书等主流平台，无需 API 费用，一个 CLI 即可使用。原生支持中英文平台。",
+  "tags": ["Agent", "Web-Search", "Multi-Platform", "Chinese", "Open-Source"],
+  "published_at": "2026-06-08T00:00:00Z",
+  "fetched_at": "2026-06-14T00:00:00Z",
+  "status": "pending",
+  "processed_by": "analyzer-agent"
+}

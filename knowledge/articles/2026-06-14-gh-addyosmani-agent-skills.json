@@ -1,0 +1,12 @@
+{
+  "id": "ce1aff5b-1942-4f56-982a-70fcbc6f02a5",
+  "title": "addyosmani/agent-skills",
+  "source_url": "https://github.com/addyosmani/agent-skills",
+  "source_name": "github-trending",
+  "summary": "面向 AI 编程 Agent 的生产级工程技能集合，由 Google Chrome 团队核心贡献者 Addy Osmani 维护。提供经过实战验证的技能模板，帮助 Agent 生成符合生产标准的高质量代码。",
+  "tags": ["Agent", "Code-Generation", "Developer-Tools", "Open-Source"],
+  "published_at": "2026-06-08T00:00:00Z",
+  "fetched_at": "2026-06-14T00:00:00Z",
+  "status": "pending",
+  "processed_by": "analyzer-agent"
+}
